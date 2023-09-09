@@ -1,0 +1,6 @@
+com\recordmanagementserver\MyResource.class
+com\recordmanagementserver\service\RecordService.class
+com\recordmanagementserver\model\RecordModel.class
+com\recordmanagementserver\model\NoteModel.class
+com\recordmanagementserver\resource\NoteResource.class
+com\recordmanagementserver\resource\RecordResource.class

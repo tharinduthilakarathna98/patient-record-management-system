@@ -1,0 +1,5 @@
+com\pr\PatinetRecordServerHibernate\dao\NoteDAO.class
+com\pr\PatinetRecordServerHibernate\resource\NoteResource.class
+com\pr\PatinetRecordServerHibernate\MyResource.class
+com\pr\PatinetRecordServerHibernate\model\NoteModel.class
+com\pr\PatinetRecordServerHibernate\dao\SessionUtil.class
